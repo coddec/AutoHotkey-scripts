@@ -14,6 +14,7 @@ Please include the original author's name in any derivative works (Change of nam
 
 ---
 
+## Name & Current Date
 - [Name & Current Date](https://github.com/coddec/AutoHotkey-scripts/tree/main/Name%20%26%20Current%20Date)
   - This script outputs Name Current Date, e.g. Bob Smith 23/08/2024
   - 1 To use, Download and Change Bob Smith to your own name if necessary
